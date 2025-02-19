@@ -1,0 +1,8 @@
+.navbar {
+    background-color: (--var(--foreground));
+}
+
+.navbar a {
+    text-decoration: none;
+    color: (--var(--background));
+}
