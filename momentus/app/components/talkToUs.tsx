@@ -110,7 +110,7 @@ const TalkToUs: React.FC = () => {
       </button> */}
       <Button         
       onClick={() => (document.getElementById("talkToUsForm") as HTMLFormElement)?.requestSubmit()}
-      text="Começar" 
+      text="Enviar" 
       color="#f4a258"
       className="mb-10" />
 

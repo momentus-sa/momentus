@@ -4,13 +4,15 @@ import Hero from "./components/hero";
 import Feedback from "./components/feedBack"
 import TalkToUs from "./components/talkToUs";
 import Footer from "./components/footer";
+import AboutOrganizarion from "./components/aboutOrganization";
 
 export default function Home() {
   return (
     <div>
       <Navbar />
       <Hero/>
-      {/* <Feedback/> */}
+      <AboutOrganizarion/>
+      <Feedback/>
       <TalkToUs/>
       <Footer/>
     </div>

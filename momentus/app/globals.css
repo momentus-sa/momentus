@@ -13,17 +13,6 @@ body {
   font-family: Josefin Sans, Raleway, sans-serif;
 }
 
-.bg-ballon1 {
-  background-image: url('../public/feedback-ballons/baloon-amarelo.svg');
-  background-size: cover;
-  background-position: center;
-}
-
-.bg-ballon1mob {
-  background-image: url('../public/feedback-ballons/baloon-amarelo-mob.svg');
-  background-size: cover;
-  background-position: center;
-}
 
 .bg-text1 {
   background-image: url('../public/feedback-ballons/bg-text-amarelo.svg');
@@ -31,20 +20,8 @@ body {
   background-position: center;
 }
 
-.bg-ballon2 {
-  background-image: url('../public/feedback-ballons/baloon-azul.svg');
-  background-size: cover;
-  background-position: center;
-}
-
 .bg-text2 {
   background-image: url('../public/feedback-ballons/bg-text-azul.svg');
-  background-size: cover;
-  background-position: center;
-}
-
-.bg-ballon3 {
-  background-image: url('../public/feedback-ballons/baloon-vermelho.svg');
   background-size: cover;
   background-position: center;
 }
