@@ -22,7 +22,7 @@ const BurningQuestions: React.FC = () => {
 
 
   return (
-    <div className="h-screen w-full bg-gradient-to-b from-[#D1EEFD] to-[#FBEAD7] flex flex-col text-black mt-[4.5rem] md:px-20 px-5">
+    <div className="h-fit w-full bg-gradient-to-b from-[#D3EFFE] to-[#FBEAD7] flex flex-col text-black py-[4.5rem] md:px-20 px-5">
         <div className="flex flex-col md:w-1/2 w-full gap-10 py-[3rem] items-center mx-auto">
             <h1 className="md:text-6xl text-3xl text-center  font-bold text-primary-color">Dúvidas Frequentes</h1>
             <p className="font-light md:text-lg text-sm " >Organizar um evento pode ser desafiador, mas nossa plataforma facilita tudo! Aqui estão as respostas para as principais dúvidas sobre como gerenciar sua equipe, cronograma, ingressos e divulgação.</p>

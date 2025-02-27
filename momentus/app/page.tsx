@@ -13,10 +13,10 @@ export default function Home() {
       <Navbar />
       <Hero/>
       <AboutOrganizarion/>
+      <BurningQuestions/>
       <Feedback/>
       <TalkToUs/>
       <Footer/>
-      <BurningQuestions/>
     </div>
   );
 }
