@@ -37,7 +37,7 @@ const Navbar: React.FC = () => {
             <Link href="#contacts" className="hover:text-secondary-color transition">
               Contatos
             </Link></div>
-          <Link href="#login" className="hover:text-secondary-color transition border-l-2 border-primary-color ml-8 pl-8">
+          <Link href="/signIn" className="hover:text-secondary-color transition border-l-2 border-primary-color ml-8 pl-8">
             Iniciar Sessão
           </Link>
           <Link
