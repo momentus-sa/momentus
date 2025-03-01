@@ -12,3 +12,40 @@ body {
   background: var(--background);
   font-family: Josefin Sans, Raleway, sans-serif;
 }
+
+
+.bg-singUp {
+  background-image: url('../public/Wallpapers/backgroundsignup.svg');
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-singIn {
+  background-image: url('../public/Wallpapers/backgrounglogin.svg');
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-registerEvent {
+  background-image: url('../public/Wallpapers/backgroundregisterEvent.svg');
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-text1 {
+  background-image: url('../public/feedback-ballons/bg-text-amarelo.svg');
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-text2 {
+  background-image: url('../public/feedback-ballons/bg-text-azul.svg');
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-text3 {
+  background-image: url('../public/feedback-ballons/bg-text-vermelho.svg');
+  background-size: cover;
+  background-position: center;
+}
